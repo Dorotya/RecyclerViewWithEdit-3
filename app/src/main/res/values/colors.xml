@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Основные цвета -->
+    <color name="black">#FFE8E8E8</color>  <!-- Светло-серый -->
+    <color name="white">#FFFFFFFF</color>   <!-- Чистый белый (оставляем только один) -->
+    <color name="off_white">#FFFFF8F0</color>  <!-- Переименованный тонированный белый -->
+
+    <!-- Пастельные цвета -->
+    <color name="pastel_blue">#FFB0E0E6</color>
+    <color name="pastel_pink">#FFFFD1DC</color>
+    <color name="pastel_green">#FFC8E6C9</color>
+
+    <!-- Цвета приложения -->
+    <color name="primary">#FFB0E0E6</color>
+    <color name="secondary">#FFFFD1DC</color>
+    <color name="text_dark">#FF333333</color>
+    <color name="primary_dark">#FF00796B</color>
+    <color name="secondary_light">#80FFD1DC</color>
 </resources>
